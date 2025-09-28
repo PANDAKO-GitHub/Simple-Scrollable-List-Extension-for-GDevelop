@@ -1,3 +1,5 @@
+**⚠️ This extension is no longer maintained, and its use is not recommended.**
+
 # Simple-Scrollable-List-Extension-for-GDevelop
 Simple Scrollable List Extension for GDevelop.
 
